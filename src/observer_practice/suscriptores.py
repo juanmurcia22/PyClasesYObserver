@@ -1,3 +1,5 @@
+
+# Elaborado por Juan Camilo Murcia
 class SuscriptorEmail:
     def __init__(self, nombre):
         self.nombre = nombre
@@ -21,4 +23,4 @@ class SuscriptorSMS:
         self.mensajes.append(mensaje)
 
     def __str__(self):
-        return f"{self.nombre} por {self.canal}"  
+        return f"{self.nombre} por {self.canal}"
