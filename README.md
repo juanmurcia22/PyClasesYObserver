@@ -165,4 +165,4 @@ Al terminar las misiones, se creará un issue final de calificación. Ejecuta ma
 
 ## Autores
 
-- Reemplaza esta línea con tu nombre, grupo, curso o rol.
+- Juan Camilo Murcia Cardozo, Ingeniería de Software, grupo 01.
