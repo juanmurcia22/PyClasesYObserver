@@ -44,7 +44,7 @@ def test_desuscribir_detiene_nuevas_notificaciones():
 
 def test_no_duplica_suscriptores():
     canal = CanalNoticias("Python al dia")
-    email = SuscriptorEmail("Ana")
+    email = SuscriptorEmail("Ana")  
 
     canal.suscribir(email)
     canal.suscribir(email)

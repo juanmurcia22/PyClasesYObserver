@@ -21,4 +21,4 @@ class SuscriptorSMS:
         self.mensajes.append(mensaje)
 
     def __str__(self):
-        return f"{self.nombre} por {self.canal}"
+        return f"{self.nombre} por {self.canal}"  

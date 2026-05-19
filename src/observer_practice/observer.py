@@ -5,4 +5,4 @@ class Observer(ABC):
 
     @abstractmethod
     def actualizar(self, mensaje):
-        pass
+        pass  
