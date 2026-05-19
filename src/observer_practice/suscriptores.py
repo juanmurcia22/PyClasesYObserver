@@ -1,5 +1,5 @@
 
-# Elaborado por Juan Camilo Murcia
+
 class SuscriptorEmail:
     def __init__(self, nombre):
         self.nombre = nombre
