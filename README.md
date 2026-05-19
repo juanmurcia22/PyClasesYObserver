@@ -29,7 +29,10 @@ cd NOMBRE_DEL_REPOSITORIO
 git status
 ```
 
-Después de clonar el repositorio, completa esta sección durante la primera misión con los comandos para crear, activar y preparar el entorno virtual.
+Después de clonar el repositorio, completa esta sección durante la primera misión con los comandos para crear, activar y preparar el entorno virtual de la siguiente manera:
+En tu computador, ejecuta python3 -m venv .venv.
+Activa el entorno con source .venv/bin/activate o con .venv\Scripts\activate en Windows.
+Instala dependencias con pip install -r requirements.txt
 
 ## Estructura esperada
 
