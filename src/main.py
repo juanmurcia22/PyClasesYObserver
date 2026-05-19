@@ -1,3 +1,4 @@
+#Elaborado por Juan Camilo Murcia
 from observer_practice.canal import CanalNoticias
 from observer_practice.suscriptores import (
     SuscriptorEmail,
